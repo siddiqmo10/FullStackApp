@@ -20,7 +20,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c7b8ac10-093a-4f86-abd4-0dbe1f944e01" name="Default Changelist" comment="Get ready for heroku">
+      <change afterPath="$PROJECT_DIR$/runtime.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FullStackApp/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/FullStackApp/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Procfile" beforeDir="false" afterPath="$PROJECT_DIR$/Procfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
     </list>
     <list id="5be9fc35-5b3d-4c6b-96f5-e1b1c8f9836b" name="Revert &quot;Get ready for heroku&quot;" comment="Revert &quot;Get ready for heroku&quot;&#10;&#10;This reverts commit 35155827" />
     <option name="SHOW_DIALOG" value="false" />
@@ -56,6 +60,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
