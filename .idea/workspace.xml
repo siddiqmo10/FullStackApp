@@ -1,7 +1,170 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="c7b8ac10-093a-4f86-abd4-0dbe1f944e01" name="Default Changelist" comment="" />
+    <list default="true" id="c7b8ac10-093a-4f86-abd4-0dbe1f944e01" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FullStackApp/python/.git2gus/config.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FullStackApp/python/.travis.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FullStackApp/python/CHANGELOG.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FullStackApp/python/Gemfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FullStackApp/python/Gemfile.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FullStackApp/python/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FullStackApp/python/Makefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FullStackApp/python/NOTICE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FullStackApp/python/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FullStackApp/python/Rakefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FullStackApp/python/bin/compile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FullStackApp/python/bin/default_pythons" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FullStackApp/python/bin/detect" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FullStackApp/python/bin/release" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FullStackApp/python/bin/steps/README.MD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FullStackApp/python/bin/steps/collectstatic" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FullStackApp/python/bin/steps/eggpath-fix" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FullStackApp/python/bin/steps/eggpath-fix2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FullStackApp/python/bin/steps/gdal" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FullStackApp/python/bin/steps/geo-libs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FullStackApp/python/bin/steps/hooks/post_compile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FullStackApp/python/bin/steps/hooks/pre_compile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FullStackApp/python/bin/steps/mercurial" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FullStackApp/python/bin/steps/nltk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FullStackApp/python/bin/steps/pip-install" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FullStackApp/python/bin/steps/pip-uninstall" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FullStackApp/python/bin/steps/pipenv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FullStackApp/python/bin/steps/pipenv-python-version" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FullStackApp/python/bin/steps/pylibmc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FullStackApp/python/bin/steps/python" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FullStackApp/python/bin/steps/sqlite3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FullStackApp/python/bin/test-compile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FullStackApp/python/bin/utils" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FullStackApp/python/bin/warnings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FullStackApp/python/buildpack.toml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FullStackApp/python/builds/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FullStackApp/python/builds/cedar-14.Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FullStackApp/python/builds/dockerenv.default" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FullStackApp/python/builds/heroku-16.Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FullStackApp/python/builds/heroku-18.Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FullStackApp/python/builds/libraries/sqlite" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FullStackApp/python/builds/libraries/vendor/gdal" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FullStackApp/python/builds/libraries/vendor/geos" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FullStackApp/python/builds/libraries/vendor/libmemcache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FullStackApp/python/builds/libraries/vendor/proj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FullStackApp/python/builds/runtimes/pypy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FullStackApp/python/builds/runtimes/pypy-5.3.1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FullStackApp/python/builds/runtimes/pypy-5.6.0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FullStackApp/python/builds/runtimes/pypy-5.7.0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FullStackApp/python/builds/runtimes/pypy-5.7.1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FullStackApp/python/builds/runtimes/pypy-5.8.0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FullStackApp/python/builds/runtimes/pypy2.7" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FullStackApp/python/builds/runtimes/pypy2.7-7.2.0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FullStackApp/python/builds/runtimes/pypy2.7-7.3.1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FullStackApp/python/builds/runtimes/pypy3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FullStackApp/python/builds/runtimes/pypy3-2.4.0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FullStackApp/python/builds/runtimes/pypy3-5.5.0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FullStackApp/python/builds/runtimes/pypy3-5.7.1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FullStackApp/python/builds/runtimes/pypy3-5.8.0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FullStackApp/python/builds/runtimes/pypy3.6" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FullStackApp/python/builds/runtimes/pypy3.6-7.2.0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FullStackApp/python/builds/runtimes/pypy3.6-7.3.1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FullStackApp/python/builds/runtimes/python-2.7.10" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FullStackApp/python/builds/runtimes/python-2.7.11" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FullStackApp/python/builds/runtimes/python-2.7.12" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FullStackApp/python/builds/runtimes/python-2.7.13" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FullStackApp/python/builds/runtimes/python-2.7.14" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FullStackApp/python/builds/runtimes/python-2.7.15" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FullStackApp/python/builds/runtimes/python-2.7.16" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FullStackApp/python/builds/runtimes/python-2.7.17" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FullStackApp/python/builds/runtimes/python-2.7.18" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FullStackApp/python/builds/runtimes/python-2.7.9" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FullStackApp/python/builds/runtimes/python-3.4.10" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FullStackApp/python/builds/runtimes/python-3.4.9" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FullStackApp/python/builds/runtimes/python-3.5.0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FullStackApp/python/builds/runtimes/python-3.5.1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FullStackApp/python/builds/runtimes/python-3.5.2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FullStackApp/python/builds/runtimes/python-3.5.3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FullStackApp/python/builds/runtimes/python-3.5.4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FullStackApp/python/builds/runtimes/python-3.5.5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FullStackApp/python/builds/runtimes/python-3.5.6" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FullStackApp/python/builds/runtimes/python-3.5.7" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FullStackApp/python/builds/runtimes/python-3.5.9" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FullStackApp/python/builds/runtimes/python-3.6.0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FullStackApp/python/builds/runtimes/python-3.6.1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FullStackApp/python/builds/runtimes/python-3.6.10" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FullStackApp/python/builds/runtimes/python-3.6.11" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FullStackApp/python/builds/runtimes/python-3.6.2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FullStackApp/python/builds/runtimes/python-3.6.3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FullStackApp/python/builds/runtimes/python-3.6.4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FullStackApp/python/builds/runtimes/python-3.6.5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FullStackApp/python/builds/runtimes/python-3.6.6" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FullStackApp/python/builds/runtimes/python-3.6.7" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FullStackApp/python/builds/runtimes/python-3.6.8" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FullStackApp/python/builds/runtimes/python-3.6.9" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FullStackApp/python/builds/runtimes/python-3.7.0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FullStackApp/python/builds/runtimes/python-3.7.1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FullStackApp/python/builds/runtimes/python-3.7.2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FullStackApp/python/builds/runtimes/python-3.7.3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FullStackApp/python/builds/runtimes/python-3.7.4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FullStackApp/python/builds/runtimes/python-3.7.5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FullStackApp/python/builds/runtimes/python-3.7.6" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FullStackApp/python/builds/runtimes/python-3.7.7" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FullStackApp/python/builds/runtimes/python-3.7.8" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FullStackApp/python/builds/runtimes/python-3.8.0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FullStackApp/python/builds/runtimes/python-3.8.1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FullStackApp/python/builds/runtimes/python-3.8.2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FullStackApp/python/builds/runtimes/python-3.8.3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FullStackApp/python/builds/runtimes/python-3.8.4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FullStackApp/python/builds/runtimes/python-3.8.5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FullStackApp/python/builds/runtimes/python2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FullStackApp/python/builds/runtimes/python3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FullStackApp/python/etc/publish.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FullStackApp/python/hatchet.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FullStackApp/python/hatchet.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FullStackApp/python/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FullStackApp/python/spec/hatchet/ci_spec.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FullStackApp/python/spec/hatchet/python_spec.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FullStackApp/python/spec/spec_helper.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FullStackApp/python/vendor/WEB_CONCURRENCY.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FullStackApp/python/vendor/jq" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FullStackApp/python/vendor/pip-pop/docopt.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FullStackApp/python/vendor/pip-pop/pip-diff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FullStackApp/python/vendor/pip-pop/pip-grep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FullStackApp/python/vendor/pip-pop/sp-grep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FullStackApp/python/vendor/pipenv-to-pip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FullStackApp/python/vendor/python.gunicorn.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FullStackApp/python/vendor/runtime-fixer" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FullStackApp/python/vendor/shunit2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Procfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_app/migrations/0003_auto_20200814_2030.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/requiremnetents.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/requiremnets.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/my_app/new_search.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/~$king a website through django.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FullStackApp/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/FullStackApp/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Making a website through django.docx" beforeDir="false" afterPath="$PROJECT_DIR$/Making a website through django.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my_app/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/my_app/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my_app/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/my_app/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/base.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,12 +173,16 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="Python Script" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1fjdPeGWNhbPIIruMJdWjrWswFi" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -24,6 +191,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="TERMINAL_CUSTOM_COMMANDS_GOT_IT" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.externalResources" />
@@ -41,10 +209,37 @@
     </task>
     <servers />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="WindowStateProjectService">
-    <state x="221" y="89" key="SettingsEditor" timestamp="1597083226795">
+    <state x="0" y="112" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1597264159469">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="221" y="89" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1597083226795" />
+    <state x="0" y="112" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.900@0.0.1440.900" timestamp="1597264159469" />
+    <state x="59" y="259" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1597434618792">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="59" y="259" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1440.900@0.0.1440.900" timestamp="1597434618792" />
+    <state x="200" y="354" key="Github.ShareDialog" timestamp="1597094476264">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="200" y="354" key="Github.ShareDialog/0.0.1440.900@0.0.1440.900" timestamp="1597094476264" />
+    <state x="120" y="162" key="Github.UntrackedFilesDialog" timestamp="1597095225518">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="120" y="162" key="Github.UntrackedFilesDialog/0.0.1440.900@0.0.1440.900" timestamp="1597095225518" />
+    <state x="221" y="89" key="SettingsEditor" timestamp="1597094295927">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="221" y="89" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1597094295927" />
   </component>
 </project>
