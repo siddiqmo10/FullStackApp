@@ -20,11 +20,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c7b8ac10-093a-4f86-abd4-0dbe1f944e01" name="Default Changelist" comment="Get ready for heroku">
-      <change afterPath="$PROJECT_DIR$/runtime.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/FullStackApp/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/FullStackApp/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Procfile" beforeDir="false" afterPath="$PROJECT_DIR$/Procfile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Making a website through django.docx" beforeDir="false" afterPath="$PROJECT_DIR$/Making a website through django.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/~$king a website through django.docx" beforeDir="false" />
     </list>
     <list id="5be9fc35-5b3d-4c6b-96f5-e1b1c8f9836b" name="Revert &quot;Get ready for heroku&quot;" comment="Revert &quot;Get ready for heroku&quot;&#10;&#10;This reverts commit 35155827" />
     <option name="SHOW_DIALOG" value="false" />
@@ -107,6 +107,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Get ready for heroku" />

@@ -28,8 +28,7 @@ SECRET_KEY = 'd=7&!lbs*5v0)pe5c-h2bl&rf=66uvybs2bsyg3lgb*tz2*5+n'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['https://mofullstackapp.herokuapp.com/']
-
+ALLOWED_HOSTS = []#'https://mofullstackapp.herokuapp.com/']
 
 # Application definition
 
@@ -44,7 +43,7 @@ INSTALLED_APPS = [
 ]
 
 MIDDLEWARE = [
-    'whitenoise.middleware.WhiteNoiseMiddleware'
+    #'whitenoise.middleware.WhiteNoiseMiddleware'
     'django.middleware.security.SecurityMiddleware',
     'django.contrib.sessions.middleware.SessionMiddleware',
     'django.middleware.common.CommonMiddleware',
@@ -74,7 +73,6 @@ TEMPLATES = [
 
 WSGI_APPLICATION = 'FullStackApp.wsgi.application'
 
-
 # Database
 # https://docs.djangoproject.com/en/3.1/ref/settings/#databases
 
@@ -84,7 +82,6 @@ DATABASES = {
         'NAME': BASE_DIR / 'db.sqlite3',
     }
 }
-
 
 # Password validation
 # https://docs.djangoproject.com/en/3.1/ref/settings/#auth-password-validators
@@ -104,7 +101,6 @@ AUTH_PASSWORD_VALIDATORS = [
     },
 ]
 
-
 # Internationalization
 # https://docs.djangoproject.com/en/3.1/topics/i18n/
 
@@ -118,7 +114,6 @@ USE_L10N = True
 
 USE_TZ = True
 
-
 # Static files (CSS, JavaScript, Images)
 # https://docs.djangoproject.com/en/3.1/howto/static-files/
 
@@ -126,7 +121,7 @@ STATIC_URL = '/static/'
 STATICFILES_DIRS = (os.path.join(BASE_DIR, 'static'),)
 django_heroku.settings(locals())
 
-#  Add configuration for static files storage using whitenoise
+"""#  Add configuration for static files storage using whitenoise
 STATICFILES_STORAGE = 'whitenoise.django.GzipManifestStaticFilesStorage'
-prod_db  =  dj_database_url.config(conn_max_age=500)
-DATABASES['default'].update(prod_db)
+prod_db = dj_database_url.config(conn_max_age=500)
+DATABASES['default'].update(prod_db)"""
