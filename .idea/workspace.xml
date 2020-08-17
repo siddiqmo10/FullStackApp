@@ -19,7 +19,25 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c7b8ac10-093a-4f86-abd4-0dbe1f944e01" name="Default Changelist" comment="Get ready for heroku" />
+    <list default="true" id="c7b8ac10-093a-4f86-abd4-0dbe1f944e01" name="Default Changelist" comment="Get ready for heroku">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.requiremnets.tct.swp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FullStackApp/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/FullStackApp/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FullStackApp/wsgi.py" beforeDir="false" afterPath="$PROJECT_DIR$/FullStackApp/wsgi.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Procfile" beforeDir="false" afterPath="$PROJECT_DIR$/Procfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/bin/Activate.ps1" beforeDir="false" afterPath="$PROJECT_DIR$/env/bin/Activate.ps1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/bin/activate" beforeDir="false" afterPath="$PROJECT_DIR$/env/bin/activate" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/bin/activate.csh" beforeDir="false" afterPath="$PROJECT_DIR$/env/bin/activate.csh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/bin/activate.fish" beforeDir="false" afterPath="$PROJECT_DIR$/env/bin/activate.fish" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/bin/easy_install" beforeDir="false" afterPath="$PROJECT_DIR$/env/bin/easy_install" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/bin/pip" beforeDir="false" afterPath="$PROJECT_DIR$/env/bin/pip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/bin/pip3" beforeDir="false" afterPath="$PROJECT_DIR$/env/bin/pip3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/bin/python" beforeDir="false" afterPath="$PROJECT_DIR$/env/bin/python" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/bin/python3" beforeDir="false" afterPath="$PROJECT_DIR$/env/bin/python3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/pyvenv.cfg" beforeDir="false" afterPath="$PROJECT_DIR$/env/pyvenv.cfg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/runtime.txt" beforeDir="false" afterPath="$PROJECT_DIR$/runtime.txt" afterDir="false" />
+    </list>
     <list id="5be9fc35-5b3d-4c6b-96f5-e1b1c8f9836b" name="Revert &quot;Get ready for heroku&quot;" comment="Revert &quot;Get ready for heroku&quot;&#10;&#10;This reverts commit 35155827" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

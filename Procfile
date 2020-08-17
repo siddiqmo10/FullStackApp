@@ -1,1 +1,1 @@
-web: gunicorn FullStackApp.wsgi --log-file -
+web: gunicorn FullStackApp.wsgi --log-file -pi
